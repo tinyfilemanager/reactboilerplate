@@ -1,0 +1,10 @@
+.hello {
+	font-weight: bold;
+}
+
+.wrapper {
+  @apply py-4
+    border-b
+    border-solid;
+
+}
